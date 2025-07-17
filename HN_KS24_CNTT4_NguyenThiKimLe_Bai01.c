@@ -6,7 +6,7 @@ typedef struct Employee {
     int id;
     char name[100];
     char position[100];
-    char salary[100]; // Lưu lương dưới dạng chuỗi
+    char salary[100];
 } Employee;
 
 typedef struct SingleNode {
